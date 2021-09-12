@@ -40,11 +40,11 @@ Ficou mundialmente conhecido por ser autor dos cursos online de Java e C# mais v
 # ✅ Preview
 
 <div align="left">
-    <img src="/screenshot/screenshot1.png" width="950px"</img> 
+    <img src="/screenshot/screenshot1.PNG" width="950px"</img> 
 </div>
 
 <div align="left">
-       <img src="/screenshot/screenshot2.png" width="950px"</img> 
+       <img src="/screenshot/screenshot2.PNG" width="950px"</img> 
 </div>
 
 # 🎉Deploy na plataforma Netlify para acesso a aplicação
