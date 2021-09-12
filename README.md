@@ -38,23 +38,9 @@ Ficou mundialmente conhecido por ser autor dos cursos online de Java e C# mais v
 <li>Git </li>
 </ul>
 
-# ✅ Preview
-
-<div align="left">
-    <img src="/frontend/src/img/screen0.png" width="950px"</img> 
-</div>
-
-<div align="left">
-       <img src="/frontend/src/img/screen1.png" width="950px"</img> 
-</div>
-
-<div align="left">
-        <img src="/frontend/src/img/screen2.png" width="950px"</img>  
-</div>
-
 # 🎉Deploy na plataforma Netlify para acesso a aplicação
 
-https://dsvendas-keliane.netlify.app/
+https://dsvendas-ingrith.netlify.app
 
 
 
